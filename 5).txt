@@ -1,0 +1,7 @@
+5)
+1° - Ligue o primeiro interruptor e deixe ligado por alguns minutos.
+2° - Desligue o primeiro interruptor e ligue o segundo interruptor.
+3° - Vá para a sala das lâmpadas.
+.A lâmpada que estiver acesa está ligada no segundo.
+.A lâmpada que estiver apagada e quente, está ligada ao primeiro interruptor.
+.A lâmpada apagada e fria está ligada ao terceiro interruptor.
